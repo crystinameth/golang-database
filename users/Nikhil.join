@@ -1,0 +1,12 @@
+{
+	"Name": "Nikhil",
+	"Age": 27,
+	"Contact": "4566793832",
+	"Company": "Google",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 543332
+	}
+}

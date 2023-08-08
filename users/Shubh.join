@@ -1,0 +1,12 @@
+{
+	"Name": "Shubh",
+	"Age": 30,
+	"Contact": "9868293832",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Kota",
+		"State": "Rajashthan",
+		"Country": "India",
+		"Pincode": 410045
+	}
+}

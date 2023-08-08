@@ -1,0 +1,12 @@
+{
+	"Name": "Aditi",
+	"Age": 23,
+	"Contact": "9868293832",
+	"Company": "ZS",
+	"Address": {
+		"City": "Surat",
+		"State": "Gujarat",
+		"Country": "India",
+		"Pincode": 650032
+	}
+}

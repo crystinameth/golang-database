@@ -1,0 +1,12 @@
+{
+	"Name": "Rohan",
+	"Age": 30,
+	"Contact": "4898293832",
+	"Company": "Azure",
+	"Address": {
+		"City": "Bareilly",
+		"State": "UP",
+		"Country": "India",
+		"Pincode": 420032
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Rajat",
+	"Age": 31,
+	"Contact": "7868293932",
+	"Company": "Zomato",
+	"Address": {
+		"City": "Indore",
+		"State": "MP",
+		"Country": "India",
+		"Pincode": 414532
+	}
+}
